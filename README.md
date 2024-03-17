@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Adam Nix
 - 👀 I’m interested in Coding and technology
 - 🌱 I’m currently learning C++
-![image](![image](https://github.com/realadamnix/realadamnix/assets/150264616/145af50f-befb-412f-9e53-5970a5d5bf35)
-)
+
+
+![image](https://github.com/realadamnix/realadamnix/assets/150264616/13cf1b94-36ec-45ec-8132-c2b597130d10)
+
 
 
 

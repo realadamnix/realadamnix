@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning C++.
 
-💻 Check out some of my projects [here](https://github.com/realadamnix?tab=repositories)"
+💻 Check out some of my projects [here](https://github.com/realadamnix?tab=repositories)
 
 📍 Ireland
 

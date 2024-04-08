@@ -10,9 +10,9 @@
 
 ## Programming languages 
 
-<img src="https://github.com/realadamnix/realadamnix/assets/150264616/13cf1b94-36ec-45ec-8132-c2b597130d10" width="110" height="110" alt="CPP" [CPP](https://github.com/realadamnix/learn-cplusplus)>
+<img src="https://github.com/realadamnix/realadamnix/assets/150264616/13cf1b94-36ec-45ec-8132-c2b597130d10" width="110" height="110" alt="CPP"> [CPP](https://github.com/realadamnix/learn-cplusplus)
 
-<img src="https://github.com/realadamnix/realadamnix/assets/150264616/36b78d04-0b0d-4f4b-b259-9f4ca108c8ec" width="140" height="100" alt="Java" [Java](https://github.com/realadamnix/java-programs)>
+<img src="https://github.com/realadamnix/realadamnix/assets/150264616/36b78d04-0b0d-4f4b-b259-9f4ca108c8ec" width="140" height="100" alt="Java"> [Java](https://github.com/realadamnix/java-programs)
 
 ## Microsoft Badges
 

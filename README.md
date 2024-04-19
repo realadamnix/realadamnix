@@ -9,13 +9,9 @@
 
 ## Programming languages
 
-<img src="https://github.com/realadamnix/realadamnix/assets/150264616/13cf1b94-36ec-45ec-8132-c2b597130d10" alt="CPP Logo" style="width:150px;height:100px;">
-<a href="https://github.com/realadamnix/learn-cplusplus.git"></a>
+[<img src="https://github.com/realadamnix/realadamnix/assets/150264616/13cf1b94-36ec-45ec-8132-c2b597130d10" alt="CPP Logo" width="50" height="50">](https://github.com/realadamnix/learn-cplusplus)
 
-
-
-<img src="https://github.com/realadamnix/realadamnix/assets/150264616/36b78d04-0b0d-4f4b-b259-9f4ca108c8ec" alt="Java Logo" style="width:150px;height:100px;">
-<a href="https://github.com/realadamnix/java-programs.git"></a>
+[<img src="https://github.com/realadamnix/realadamnix/assets/150264616/36b78d04-0b0d-4f4b-b259-9f4ca108c8ec" alt="Java Logo" width="50" height="50">](https://github.com/realadamnix/java-programs)
 
 
 

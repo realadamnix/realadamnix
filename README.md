@@ -15,7 +15,7 @@
 
 
 
-## Microsoft Badges
+## Badges
 
 [![microsoft-office-specialist-excel-associate-office-2019](https://github.com/realadamnix/realadamnix/assets/150264616/84bd5ebc-8ecb-4de9-b438-3846d7d80425)](https://www.credly.com/badges/7727ceee-8d52-48cf-a662-33b5a411935b) 
 [![microsoft-office-specialist-outlook-associate-office-2019](https://github.com/realadamnix/realadamnix/assets/150264616/1f28a210-38fa-41fe-b4b3-bdc809603106)](https://www.credly.com/badges/2fbe87f3-dc49-43fc-834a-fe06f4ba40ac)

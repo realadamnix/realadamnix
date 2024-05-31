@@ -1,5 +1,6 @@
 # Intro 
 👋 Hi, I'm Adam Nix
+
 📍 Ireland
 
 ## Programming languages

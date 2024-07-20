@@ -1,16 +1,15 @@
-# Intro 
+# About Me 
 👋 Hi, I'm Adam Nix
 
 📍 Ireland
 
-## my portfolio
 
-https://realadamnix.github.io/
+<img src="https://preview.ibb.co/hNg41T/portflio.png" alt="Description of Image" width="450" height="200">
 
-## Programming languages
+## Programming languages and Statistics
 
-[<img src="https://github.com/realadamnix/realadamnix/assets/150264616/13cf1b94-36ec-45ec-8132-c2b597130d10" alt="CPP Logo" width="70" height="70">](https://github.com/realadamnix/learn-cplusplus)
-[<img src="https://github.com/realadamnix/realadamnix/assets/150264616/36b78d04-0b0d-4f4b-b259-9f4ca108c8ec" alt="Java Logo" width="100" height="65">](https://github.com/realadamnix/java-programs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realadamnix&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=realadamnix&theme=dark)](https://git.io/streak-stats)
 
 ## Badges
 <a href="https://www.credly.com/badges/7727ceee-8d52-48cf-a662-33b5a411935b">

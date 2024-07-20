@@ -4,7 +4,9 @@
 📍 Ireland
 
 
-<img src="https://preview.ibb.co/hNg41T/portflio.png" alt="Description of Image" width="450" height="200">
+<a href="https://realadamnix.github.io/index.html">
+    <img src="https://preview.ibb.co/hNg41T/portflio.png" alt="Description of Image" width="450" height="200">
+</a>
 
 ## Programming languages and Statistics
 

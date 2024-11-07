@@ -1,6 +1,3 @@
-# About Me 
-👋 Hi, I'm Adam Nix
-
 📍 Ireland
 
 

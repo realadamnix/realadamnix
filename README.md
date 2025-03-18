@@ -1,8 +1,4 @@
-📍 Ireland
-
-
-<a href="https://realadamnix.github.io/index.html">
-    <img src="https://preview.ibb.co/hNg41T/portflio.png" alt="Description of Image" width="450" height="200">
+##  My Website </h1> <a href="https://adamnix.ie"> adamnix.ie
 </a>
 
 ## Programming languages and Statistics
